@@ -1,0 +1,14 @@
+.EightBall {
+    border-radius: 50%;
+    height: 50em;
+    width: 50em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.EightBall-text {
+    font-size: xx-large;
+}
